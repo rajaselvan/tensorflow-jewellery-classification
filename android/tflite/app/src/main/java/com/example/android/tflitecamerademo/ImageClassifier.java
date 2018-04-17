@@ -49,7 +49,7 @@ public class ImageClassifier {
   private static final String LABEL_PATH = "labels.txt";
 
   /** Number of results to show in the UI. */
-  private static final int RESULTS_TO_SHOW = 3;
+  private static final int RESULTS_TO_SHOW = 1;
 
   /** Dimensions of inputs. */
   private static final int DIM_BATCH_SIZE = 1;
